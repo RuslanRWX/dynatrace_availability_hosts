@@ -24,7 +24,7 @@ How to use it
 
 ![image](https://github.com/ruslansvs2/dynatrace_availability_hosts/assets/18479441/9fa0b6e7-35fb-4d84-9ffb-20b61dfc460f)
 
-then you'll see en Excel file in the same directories 
+then you'll see en Excel file in the same directorie
 
 ![image](https://github.com/ruslansvs2/dynatrace_availability_hosts/assets/18479441/cff408f7-eb70-4c1c-aac4-9b2a08acc601)
 
