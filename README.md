@@ -12,20 +12,22 @@ The script will generate an Excel file with host and availability metrics.
 2. generate token in Dynatrace
   Management->Access tokens->Generate new token 
 
-  Scopes: ![image](https://github.com/ruslansvs2/dynatrace_availability_hosts/assets/18479441/8239244b-a5e4-458d-9403-29e0a07b141f)
+  Scopes: ![image](https://github.com/ruslansvs2/dynatrace_availability_hosts/assets/18479441/a78442fe-6f3c-4950-9523-9d895021a464)
+
 
 4. add token to dt_availability_by_hosts.py file
 
-   ![image](https://github.com/ruslansvs2/dynatrace_availability_hosts/assets/18479441/44bf2e6c-f241-4a96-a3ef-e323a8ef50cd)
-   
+   ![image](https://github.com/ruslansvs2/dynatrace_availability_hosts/assets/18479441/6baf6b4d-e876-4081-aab5-5af847d20db2)
 
    
-How to use it
+How to use it: run a script
 
-![image](https://github.com/ruslansvs2/dynatrace_availability_hosts/assets/18479441/9fa0b6e7-35fb-4d84-9ffb-20b61dfc460f)
+![image](https://github.com/ruslansvs2/dynatrace_availability_hosts/assets/18479441/db5bc415-5bd2-4b5b-b822-286dd40d4011)
+
 
 then you'll see en Excel file in the same directorie
 
-![image](https://github.com/ruslansvs2/dynatrace_availability_hosts/assets/18479441/cff408f7-eb70-4c1c-aac4-9b2a08acc601)
+![image](https://github.com/ruslansvs2/dynatrace_availability_hosts/assets/18479441/cad3acde-5d5f-4045-ab41-e776355cd67a)
+
 
 
