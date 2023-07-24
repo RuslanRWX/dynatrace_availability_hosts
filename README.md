@@ -20,7 +20,7 @@ The script will generate an Excel file with host and availability metrics.
    ![image](https://github.com/ruslansvs2/dynatrace_availability_hosts/assets/18479441/6baf6b4d-e876-4081-aab5-5af847d20db2)
 
    
-How to use it: run a script
+How to use it: run the script
 
 ![image](https://github.com/ruslansvs2/dynatrace_availability_hosts/assets/18479441/db5bc415-5bd2-4b5b-b822-286dd40d4011)
 
